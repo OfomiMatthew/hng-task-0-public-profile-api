@@ -33,7 +33,7 @@ INSTALLED_APPS = [
 
 
 MY_EMAIL = 'ofomimatthew7@gmail.com'
-GITHUB_URL = ''
+GITHUB_URL = 'https://github.com/OfomiMatthew/hng-task-0-public-profile-api'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -46,7 +46,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOW_ALL_ORIGINS = True
+# CORS_ALLOW_ALL_ORIGINS = True
 
 ROOT_URLCONF = 'profile_api_project.urls'
 
