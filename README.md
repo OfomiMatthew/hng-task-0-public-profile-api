@@ -23,6 +23,6 @@ A simple Django REST Framework (DRF) API that returns user information for the H
 - pip
 
 ### Steps
-1. **Clone the repository**:
+ **Clone the repository**:
   
    
