@@ -21,6 +21,7 @@ A simple Django REST Framework (DRF) API that returns user information for the H
 ### Prerequisites
 - Python 3.11+
 - pip
+- pip install -r requirements.txt (To install all packages used)
 
 ### Steps
  **Clone the repository**:
