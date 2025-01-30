@@ -1,6 +1,7 @@
 # HNG Stage 0 Task API
 
 A simple Django REST Framework (DRF) API that returns user information for the HNGx internship program.  
+**Live API Endpoint**: [https://hng-task-0-public-profile-api.vercel.app/api/profiles]
 
 
 ## Features
@@ -25,5 +26,6 @@ A simple Django REST Framework (DRF) API that returns user information for the H
 
 ### Steps
  **Clone the repository**:
+ 
   
    
